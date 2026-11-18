@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rabul\\Downloads\\Local Products Support Platform\\Project_Code\\Foodhub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9BEE8-7C4E-EAE4-CFC1-4D8A57CD83B6}|Foodhub.csproj|c:\\users\\rabul\\downloads\\local products support platform\\project_code\\foodhub\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96B9BEE8-7C4E-EAE4-CFC1-4D8A57CD83B6}|Foodhub.csproj|solutionrelative:views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9BEE8-7C4E-EAE4-CFC1-4D8A57CD83B6}|Foodhub.csproj|c:\\users\\rabul\\downloads\\local products support platform\\project_code\\foodhub\\controllers\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B9BEE8-7C4E-EAE4-CFC1-4D8A57CD83B6}|Foodhub.csproj|solutionrelative:controllers\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B9BEE8-7C4E-EAE4-CFC1-4D8A57CD83B6}|Foodhub.csproj|c:\\users\\rabul\\downloads\\local products support platform\\project_code\\foodhub\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B9BEE8-7C4E-EAE4-CFC1-4D8A57CD83B6}|Foodhub.csproj|solutionrelative:models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rabul\\Downloads\\Local Products Support Platform\\Project_Code\\Foodhub\\Views\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rabul\\Downloads\\Local Products Support Platform\\Project_Code\\Foodhub\\Views\\Index.cshtml",
+              "RelativeToolTip": "Views\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T19:30:33.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\rabul\\Downloads\\Local Products Support Platform\\Project_Code\\Foodhub\\Controllers\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Controllers\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\rabul\\Downloads\\Local Products Support Platform\\Project_Code\\Foodhub\\Controllers\\Restaurant.cs",
+              "RelativeToolTip": "Controllers\\Restaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T19:17:56.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\rabul\\Downloads\\Local Products Support Platform\\Project_Code\\Foodhub\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\rabul\\Downloads\\Local Products Support Platform\\Project_Code\\Foodhub\\Models\\Restaurant.cs",
+              "RelativeToolTip": "Models\\Restaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T19:13:24.642Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
